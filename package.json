@@ -1,28 +1,28 @@
 {
-<<<<<<< HEAD
+
   "name": "ecommerce_webapp",
-=======
+
   "name": "e-commerce-webapp",
->>>>>>> 06984858801e86cc7ab8a9032efb406cd104dae6
+
   "version": "1.0.0",
   "description": "An e-commerce app built on MERN stack (MongoDB, Express, React and Node) with Stripe Checkout to handle payments.",
   "main": "server.js",
   "scripts": {
-<<<<<<< HEAD
+
     "start": "node server.js",
     "server": "nodemon server.js",
     "client": "npm start --prefix client",
-    "dev": "concurrently \"npm run server\" \"npm run client\""
-=======
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
->>>>>>> 06984858801e86cc7ab8a9032efb406cd104dae6
+
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Devmahendra12/E-Commerce-WebApp.git"
   },
-<<<<<<< HEAD
+
   "author": "",
   "license": "ISC",
    "dependencies": {
@@ -42,8 +42,8 @@
   "bugs": {
     "url": "https://github.com/Devmahendra12/E-Commerce-WebApp/issues"
   },
-  "homepage": "https://github.com/Devmahendra12/E-Commerce-WebApp#readme"
-=======
+  "homepage": "https://github.com/Devmahendra12/E-Commerce-WebApp#readme",
+
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -64,5 +64,5 @@
     "redux": "^4.2.0",
     "validator": "^13.7.0"
   }
->>>>>>> 06984858801e86cc7ab8a9032efb406cd104dae6
+
 }
